@@ -1,0 +1,9 @@
+ignite==1.1.0
+matplotlib==3.9.0
+numpy==1.26.4
+pandas==2.2.2
+Pillow==10.3.0
+scikit_learn==1.5.0
+torch==2.3.0
+torchvision==0.18.0
+tqdm==4.66.4
